@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/modules/collector/secrets.txt
+/modules/collector/collector.ipynb
+/data/
