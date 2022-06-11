@@ -4,13 +4,13 @@
 # structure
 The project consists of four main modules:
 
-**COLLECTOR**: updates game data
+- **COLLECTOR** *[70% done]*: updates game data
 
-**CATEGORIZER**: derives the gameplay, theme, and visual categories from Steam user tags, Steam genres, and IGDB keywords
+- **CATEGORIZER** *[still only in jupyter]*: derives the gameplay, theme, and visual categories from Steam user tags, Steam genres, and IGDB keywords 
 
-**TRAINER**: trains classification models
+- **TRAINER** *[still only in jupyter]*: trains classification models 
 
-**PREDICTOR**: predicts and visualizes success
+- **PREDICTOR** *[still only in jupyter]*: predicts and visualizes success 
 
 # data
 Data sources include:
